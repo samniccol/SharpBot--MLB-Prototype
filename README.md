@@ -53,7 +53,7 @@
 
 **#How it Works**
 	
-	  You input your watchlist or let the bot build it.
+	 Select which games you want to watch from a season list with auto 12 hour refresh. input your watchlist or let the bot build it.
 	  
 	  Bot scrapes data on injuries and current stats.
 	  
